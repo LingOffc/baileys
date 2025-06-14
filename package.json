@@ -1,18 +1,18 @@
 {
-  "name": "naruyaizumi",
-  "version": "26.0.4",
+  "name": "finixui",
+  "version": "26.0.1",
   "description": "baileys whatsapp-api",
   "keywords": [
     "automation",
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/naruyaizumi/baileys",
+  "homepage": "https://github.com/LingOffc/baileys",
   "repository": {
-    "url": "https://github.com/naruyaizumi/baileys"
+    "url": "https://github.com/LingOffc/baileys"
   },
   "license": "MIT",
-  "author": "Naruya Izumi",
+  "author": "Finix UI",
   "main": "lib/index.js",
   "files": [
     "lib/*",
