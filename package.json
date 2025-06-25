@@ -1,5 +1,5 @@
 {
-  "name": "naruyaizumi",
+  "name": "finix-ui",
   "version": "26.0.4",
   "description": "baileys whatsapp-api",
   "keywords": [
@@ -7,12 +7,12 @@
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/naruyaizumi/baileys",
+  "homepage": "https://github.com/LingOffc/baileys",
   "repository": {
-    "url": "https://github.com/naruyaizumi/baileys"
+    "url": "https://github.com/LingOffc/baileys"
   },
   "license": "MIT",
-  "author": "Naruya Izumi",
+  "author": "Finix UI",
   "main": "lib/index.js",
   "files": [
     "lib/*",
